@@ -72,4 +72,5 @@ public class Main {
         max -= min;
         return (int) (Math.random() * ++max) + min;
     }
+
 }
